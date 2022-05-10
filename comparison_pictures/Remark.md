@@ -1,0 +1,1 @@
+Ratings for ConvNet are from vgg19
